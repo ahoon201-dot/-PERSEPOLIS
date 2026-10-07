@@ -1,0 +1,10 @@
+{
+  "users": {},
+  "tasks": {},
+  "audit": [],
+  "config": {
+    "supplyTotal": 1000000000,
+    "gameAllocation": 100000000,
+    "emissionRemaining": 100000000
+  }
+}
